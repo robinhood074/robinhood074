@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ 
 -->
-https://github-readme-stats.vercel.app/api?username=robinhood074&theme=cobalt&show_icons=true
+(https://github-readme-stats.vercel.app/api?username=robinhood074&theme=cobalt&show_icons=true)
