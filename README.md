@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **robinhood074/robinhood074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Angular Development.
 - 📫 How to reach me: yagniksatani123@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ 
--->
-(https://github-readme-stats.vercel.app/api?username=robinhood074&theme=cobalt&show_icons=true)
+
+![Robinhood's Github stats](https://github-readme-stats.vercel.app/api?username=robinhood074&theme=cobalt&show_icons=true)
