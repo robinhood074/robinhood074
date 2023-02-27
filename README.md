@@ -2,8 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Pmc Retail Project.
-- 🌱 I’m currently learning Angular| Ionic | Firebase
+- 🔭 I’m currently working on Smart Data delhi project.
+- 😀 I had worked with Pmc Retail Vadodara Project
+- 🌱 I’m experienced developer with Angular | Ionic | Firebase
 - 👯 I’m looking to collaborate on Large scale project.
 - 💬 Ask me about Angular Development.
 - 📫 How to reach me: yagniksatani123@gmail.com
